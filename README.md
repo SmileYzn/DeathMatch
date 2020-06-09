@@ -1,2 +1,2 @@
 # DeathMatch
-CS DeathMatch Mod
+CS DeathMatch Mod for Amx Mod X
